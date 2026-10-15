@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/twisted/twistedchecker/commit/4a69f3f7d80f2f42d915bc128d4257a2e15804e4",
       "git:hexsha": "4a69f3f7d80f2f42d915bc128d4257a2e15804e4",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.7.4"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.7.4",
+      "repolex:parsedAt": "2026-10-15T14:49:39.494918+00:00"
     },
     {
       "@id": "https://repolex.ai/r/twisted/twistedchecker/commit/27367e691c9408191a5ae18de8078cca78870315",
