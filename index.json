@@ -1,0 +1,11 @@
+{
+  "org": "twisted",
+  "repo": "twistedchecker",
+  "versions": [
+    {
+      "commit": "4a69f3f7d80f2f42d915bc128d4257a2e15804e4",
+      "tag": "0.7.4",
+      "parsed_at": "2026-10-15T14:49:39.495388+00:00"
+    }
+  ]
+}
